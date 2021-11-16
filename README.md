@@ -23,7 +23,7 @@ Hi there, I'm Colette. (❁´◡`❁)/
 
 ## 🔭 I’m currently working on:
 
-- My MDLinks respository
+- Learning React!
 - Improving my javascript and nodeJs skills
 - Working on my tools to find my dream job
 
