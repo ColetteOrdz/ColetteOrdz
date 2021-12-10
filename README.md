@@ -11,10 +11,10 @@ Hi there, I'm Colette. (❁´◡`❁)/
  </p>
  
  ## 🌱 I'm currently learning at Laboratoria 💛:
- 
  - JavaScript
  - CSS
  - HTML
+ - React
  - Firebase
  - NodeJs
  - Jest
@@ -22,10 +22,8 @@ Hi there, I'm Colette. (❁´◡`❁)/
  - Git/Github
 
 ## 🔭 I’m currently working on:
-
 - Learning React!
-- Improving my javascript and nodeJs skills
-- Working on my tools to find my dream job
+- Improving my javascript and react skills
 
 ## 😄 Pronouns:
 She/Her 🙆🏻‍♀️
