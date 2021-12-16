@@ -1,6 +1,6 @@
-<p align="center>
+
 <img src="https://user-images.githubusercontent.com/86325608/146429018-b110b23a-0723-47a7-a089-1eb8f32dda0a.png" alt="My banner/>
-</p>
+
 
 <p align="center">
 Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
