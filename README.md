@@ -2,9 +2,8 @@
 
 <div align="center">
 <h1>
-Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
+Hi there, welcome to my space. I'm Colette. (❁´◡`❁)/
 </h1>
-<br/>
 <p>
  In both programming and biology, evolution is present, so I'm inspired by the adaptation of technology to improve people's lives. 
 </p>
