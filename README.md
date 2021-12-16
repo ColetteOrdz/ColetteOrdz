@@ -14,7 +14,9 @@ Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img src="https://img.icons8.com/color/48/000000/css3.png" />
 <img src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png" />
+<img src="https://img.icons8.com/color/96/000000/firebase.png" />
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" />
+<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png"/>
 </div>
 
  
