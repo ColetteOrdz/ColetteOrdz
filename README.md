@@ -1,12 +1,14 @@
 <img src="https://user-images.githubusercontent.com/86325608/146429018-b110b23a-0723-47a7-a089-1eb8f32dda0a.png" alt="My banner" />
 
-<h1 align="center">
+<div align="center">
+<h1>
 Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
 </h1>
-
-<p align="center">
+<br/>
+<p>
  In both programming and biology, evolution is present, so I'm inspired by the adaptation of technology to improve people's lives. 
 </p>
+</div>
  
  ## 🌱 Languages and tools 💛:
 <div display="flex" flex-wrap="wrap" align="center">
@@ -19,10 +21,9 @@ Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
 <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-shadow-tal-revivo.png" />
 <img src="https://img.icons8.com/color/96/000000/figma--v1.png" />
 <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" />
-<img src="https://img.icons8.com/color/96/000000/npm.png"/>
-</div>
-
- 
+<img src="https://img.icons8.com/color/96/000000/npm.png" />
+<img src="https://img.icons8.com/color/96/000000/git.png" />
+</div> 
 
 ## 🔭 I’m currently working on:
 - Learning React!
