@@ -39,7 +39,8 @@ She/Her 🙆🏻‍♀️
 <img src="https://img.icons8.com/ios-glyphs/30/000000/easel.png" /> <p>In my free time I like to paint animals, the challenge of making them as realistic as possible motivates me. 🤍 </p>
 
 ## 📫 How to reach me:
-<a href="https://www.linkedin.com/in/pcolette-ordonez/"><img src="https://img.icons8.com/color/30/000000/gmail.png" /></a>
-<img src="https://img.icons8.com/color/30/000000/gmail.png" />pcoletteor@gmail.com
- 
+<div align= "center">
+<a href="mailto:pcoletteor@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" /></a>
+<a href="https://www.linkedin.com/in/pcolette-ordonez/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" /></a>
+</div>
 
