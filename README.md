@@ -36,7 +36,7 @@ She/Her 🙆🏻‍♀️
 - English (intermediate)
 
 ## ⚡ Fun fact:
-<img src="https://img.icons8.com/ios-glyphs/30/000000/easel.png" /> <p>In my free time I like to paint animals, the challenge of making them as realistic as possible motivates me. 🤍 </p>
+In my free time I like to paint animals, the challenge of making them as realistic as possible motivates me. (☆▽☆)🤍 
 
 ## 📫 How to reach me:
 <div align= "center">
