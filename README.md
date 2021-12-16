@@ -26,7 +26,7 @@ Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
 
 ## 🔭 I’m currently working on:
 - Learning React!
-- Improving my javascript and react skills
+- Improving my Javascript and React skills
 
 ## 😄 Pronouns:
 She/Her 🙆🏻‍♀️
@@ -36,9 +36,10 @@ She/Her 🙆🏻‍♀️
 - English (intermediate)
 
 ## ⚡ Fun fact:
-In my free time I like to paint animals, the challenge of making them as realistic as possible motivates me. 👩🏻‍🎨🤍
+<img src="https://img.icons8.com/ios-glyphs/30/000000/easel.png" /> In my free time I like to paint animals, the challenge of making them as realistic as possible motivates me. 🤍
 
 ## 📫 How to reach me:
- 📧 pcoletteor@gmail.com
- <br>💼 [My LinkedIn profile](https://www.linkedin.com/in/pcolette-ordonez/)
+<img src="https://img.icons8.com/color/30/000000/gmail.png" /> pcoletteor@gmail.com
+ <br>
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" />[My LinkedIn profile](https://www.linkedin.com/in/pcolette-ordonez/)
 
