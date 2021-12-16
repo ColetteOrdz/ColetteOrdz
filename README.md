@@ -1,6 +1,4 @@
-
 <img src="https://user-images.githubusercontent.com/86325608/146429018-b110b23a-0723-47a7-a089-1eb8f32dda0a.png" alt="My banner" />
-
 
 <p align="center">
 Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
@@ -12,6 +10,11 @@ Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
  
  ## 🌱 Languages and tools 💛:
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+
  
 
 ## 🔭 I’m currently working on:
