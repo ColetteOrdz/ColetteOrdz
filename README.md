@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/86325608/146429018-b110b23a-0723-47a7-a089-1eb8f32dda0a.png" alt="My banner" />
 
-<p align="center">
+<h1 align="center">
 Hi there, welcome to may space. I'm Colette. (❁´◡`❁)/
-</p>
+</h1>
 
 <p align="center">
  In both programming and biology, evolution is present, so I'm inspired by the adaptation of technology to improve people's lives. 
- </p>
+</p>
  
  ## 🌱 Languages and tools 💛:
 <div display="flex" flex-wrap="wrap" align="center">
